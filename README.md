@@ -1,4 +1,4 @@
-# Data-Management-Poject-Flight-delays
+# Data-Management-Project-Flight-delays
 Data Cleaning and Analysis on Flight Delay &amp; Cancellation
 
 
