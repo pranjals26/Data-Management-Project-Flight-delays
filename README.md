@@ -30,3 +30,9 @@ Describe any concerns with the data and changes you expect to overcome
 While taking an initial look at the data, we found that there are a lot of missing data in the cancellation reason column, in order to make sure we still have a reasonably large dataset to analyze, we might have to delete this column.
 Some other areas that we might have to make efforts on are providing supporting information so that they can be understood by the public. The names of airlines and airports are often timeswritten in its assigned spells or initials, which makes it difficult for us to report.
 
+### Dimensional Modeling
+For our dimension table we have 8 facts, we focus more on departure delay and arrival delay. Airlines,Flights,Date and airports are the four dimension we created.
+
+
+![Final_Iteration Plot](https://github.com/pranjals26/Data-Management-Project-Flight-delays/blob/main/Dimensional%20Modeling.jpeg)
+
